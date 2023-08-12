@@ -1,12 +1,16 @@
-## Hi there 👋
+## Hi there! welcome to FuelSupply
 
-<!--
 
-**Here are some ideas to get you started:**
+### this is the public Org for Fuel&Sway. which is a blockchain built on top of Ethereum. 🌴
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+**How do we supply the fuel ecosystem?**
+
+🙋‍♀️ We have forced the fully open source for the sway Contract, Fuel infrastructure.
+
+
+
+
+**What we built on fuel**
+a fuel explorer which gives a lot futures for contract and blockchain like contract verification, open source, token tracing, NFT tracing, etc [fuelscan.xyz](https://fuelscan.xyz)
+
